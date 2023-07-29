@@ -8,12 +8,11 @@
 ;;	I think it's beautiful 
 
 
-
-(load "E:\\88.scm")
-(load "E:\\77.scm")
-(load "E:\\66.scm")
-(load "E:\\55.scm")
-(load "E:\\10.scm")
+(load "E:\\T\\Bytes-tool.scm")
+(load "E:\\T\\Debuge.scm")
+(load "E:\\T\\CPU.scm")
+(load "E:\\T\\Keyboard&Screen.scm")
+(load "E:\\T\\Memory.scm")
 (send frame show #t) ;;have some 
 
 
